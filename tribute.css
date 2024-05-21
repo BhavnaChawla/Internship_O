@@ -1,0 +1,62 @@
+
+.heading
+{
+   padding: auto;
+   font-size: 40px;
+   color:rgb(12, 12, 14);
+   margin-left: 580px; 
+ 
+}
+.head2
+{
+   font-size: 40px;
+   color:rgb(12, 12, 14);
+   margin-left: 480px; 
+ 
+}
+.head3
+{
+    font-size: 40px;
+    color:rgb(12, 12, 14);
+    margin-left: 380px; 
+ 
+}
+.p1{
+    font-size: 20px;
+    margin:0px 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+ .quote {
+   font-size: 23px;
+   float:right;
+   margin-left: 12%;
+   margin-top:-7%;
+   align:justify; 
+}
+.name{
+    font-size: 30px;
+    float:right;
+    margin-right: 10%;
+    margin-top:-3%;
+    align:justify;
+}
+nav{
+   background-color: rgb(143, 148, 158);
+   color:rgb(0, 3, 7);
+   margin:10px 10px;
+   padding: 10px;
+}
+ li {
+    display: inline-block;
+    font-size: 40px;
+ }
+ .box{
+    padding-bottom: 30px;
+    margin : 10px 40px;
+    background-color: rgb(222, 213, 230);
+ }
+ hr{
+    height: 2px; 
+    width: 100px;
+ }
